@@ -15,8 +15,8 @@ Download the latest build
 
 Here's what you need:
 
-[Python 3.8 or newer](https://www.python.org/downloads/)
-Google Chrome - [chromedriver 83.0.4103.39](https://chromedriver.storage.googleapis.com/index.html?path=83.0.4103.39/)
+* [Python 3.8 or newer](https://www.python.org/downloads/)
+* Google Chrome - [chromedriver 83.0.4103.39](https://chromedriver.storage.googleapis.com/index.html?path=83.0.4103.39/)
 
 
 ### Installing
