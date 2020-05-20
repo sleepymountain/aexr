@@ -9,7 +9,7 @@ For educational purposes only, of course.
 
 ## Getting Started
 
-Download the latest build
+Download the [latest build](https://github.com/sleepymountain/aexr/releases)
 
 ### Prerequisites
 
