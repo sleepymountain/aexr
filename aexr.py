@@ -22,7 +22,7 @@ configFilePath = r'settings.txt'
 configParser.read(configFilePath)
 
 # Console Heading
-ctypes.windll.kernel32.SetConsoleTitleW("Pearson AutoETextReader | by sleepymountain")
+# ctypes.windll.kernel32.SetConsoleTitleW("Pearson AutoETextReader | by sleepymountain")
 print(f"{Fore.LIGHTRED_EX}AutoETextReader {Style.RESET_ALL}v1.00 | {Fore.LIGHTYELLOW_EX}By sleepymountain")
 print("\n")
 
