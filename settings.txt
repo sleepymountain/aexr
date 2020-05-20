@@ -1,0 +1,11 @@
+[Page-Settings]
+starting_page = 1
+ending_page = 800
+min_page_time = 90
+max_page_time = 300
+
+[Pearson-Settings]
+e_text_link = 
+login_username = 
+login_password = 
+
