@@ -2,6 +2,8 @@
 
 A Headless Automatic Reader for Pearson eText
 
+![Screenshot](https://eden.please-end.me/VEtN2i.png)
+
 ### Usage:
 Pearson tracks how long a student has spent reading the eText. 
 This is a simple solution to automatically read a specified amount of pages, each for a specified range of seconds.
